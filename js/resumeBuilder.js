@@ -58,6 +58,12 @@ var work = {
             "title": "Systems and Audit Analyst",
             "dates": "March 2014 - March 2017",
             "description": "Process Mapping"
+        },
+        {
+            "employer": "DSWD KALAHI-CIDSS",
+            "title": "Monitoring and Evaluation Officer III",
+            "dates": "September 2017 - August 2019",
+            "description": "Monitoring and Evaluation"
         }
     ]
 }
