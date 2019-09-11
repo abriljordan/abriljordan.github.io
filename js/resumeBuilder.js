@@ -55,7 +55,7 @@ var work = {
         },
         {
             "employer": "REBISCO",
-            "title": "Systems and Audit Analyst",
+            "title": "Systems Analyst",
             "dates": "March 2014 - March 2017",
             "description": "Process Mapping"
         },
