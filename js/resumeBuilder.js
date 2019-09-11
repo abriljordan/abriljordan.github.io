@@ -2,7 +2,7 @@ var bio = {
     "name" : "Abril Jordan Casinillo",
     "role" : "Aspiring Software Engineer",
     "contacts": {
-        "mobile" : "0905-036-5134",
+        "mobile" : "0966-355-6805",
         "email" : "accasinillo@up.edu.ph",
         "github" : "abriljordan",
         "twitter" : "@abril_jordan",
