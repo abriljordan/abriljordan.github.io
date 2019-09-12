@@ -6,7 +6,6 @@ var bio = {
         "email" : "accasinillo@up.edu.ph",
         "linkedin" : "abriljordancasinillo",
         "github" : "abriljordan",
-        //"twitter" : "@abril_jordan",
         "location" : "Cagayan de Oro City"
     },
     "welcomeMessage" : "Hello World!",
