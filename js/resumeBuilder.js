@@ -133,6 +133,8 @@ function displayTopContacts(){
     $("#topContacts").append(formattedMobile);
     var formattedEmail = HTMLemail.replace("%data%", bio.contacts.email);
     $("#topContacts").append(formattedEmail);
+    var formattedLinkedin = HTMLlinkedin.replace("%data%", bio.contacts.linkedin);
+    $("#topContacts").append(formattedLinkedin);
     var formattedTwitter = HTMLtwitter.replace("%data%", bio.contacts.twitter);
     $("#topContacts").append(formattedTwitter);
     var formattedGithub = HTMLgithub.replace("%data%", bio.contacts.github);
