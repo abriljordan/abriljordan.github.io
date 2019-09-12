@@ -4,7 +4,7 @@ var bio = {
     "contacts": {
         "mobile" : "0966-355-6805",
         "email" : "accasinillo@up.edu.ph",
-        "linkedin" : "abriljordancasinillo",
+        "linkedin" : "in/abriljordancasinillo",
         "github" : "abriljordan",
         "location" : "Cagayan de Oro City"
     },
