@@ -156,6 +156,7 @@ for (job in work.jobs){
     }
 }
 
+  
 
 displayEducation();
 displayWork();
