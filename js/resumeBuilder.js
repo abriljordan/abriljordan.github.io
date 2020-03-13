@@ -51,7 +51,8 @@ var work = {
             "employer": "University of Science and Technology of the Southern Philippines",
             "title": "Library Assistant" ,
             "dates": "July 17, 2012 - December 20, 2014",
-            "description": "Assistant to the University Librarian"
+            "description": "1. Installed, maintained, and repaired computer infrastructures.",
+            "2. Performed circulation desk procedures, such as checking in and checking out of materials, registering patrons and processed library materials."
         },
         {
             "employer": "REBISCO",
