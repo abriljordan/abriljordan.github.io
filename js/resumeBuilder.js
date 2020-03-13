@@ -22,7 +22,7 @@ var education = {
             "name": "University of Science and Technology of the Southern Philippines",
             "location": "C.M. Recto Avenue, Lapasan, Cagayan de Oro City",
             "degree": "Bachelor's Degree",
-            "majors": ["Information Systems and Networking"],
+            "majors": ["Web development (PHP & MySQL), Web designing, RDBMS (PostgreSQL), Linux, C, Java, Cisco Networking"],
             "dates": 2012,
             "url": "http://www.ustp.edu.ph"
         },
