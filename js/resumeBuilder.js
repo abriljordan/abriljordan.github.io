@@ -63,7 +63,7 @@ var work = {
             "employer": "DSWD KALAHI-CIDSS",
             "title": "Monitoring and Evaluation Officer III",
             "dates": "September 2017 - August 2019",
-            "description": "1. Lead a team of data entry specialists in collaboration with area coordinators, community facilitators, financial analysts and engineers tasked in data collection for storage and analysis. 2. Ensure consistency in objectives & using success indicators to deliver timely & relevant reports."
+            "description": "1. Lead a team of data entry specialists in collaboration with area coordinators, community facilitators, financial analysts and engineers tasked in data collection for storage and analysis.\n 2. Ensure consistency in objectives & using success indicators to deliver timely & relevant reports."
             
         
         }
