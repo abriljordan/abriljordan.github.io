@@ -51,16 +51,13 @@ var work = {
             "employer": "University of Science and Technology of the Southern Philippines",
             "title": "Library Assistant" ,
             "dates": "July 17, 2012 - December 20, 2014",
-            "description": "1. Installed, maintained, and repaired computer infrastructures.",
-                           "2. Performed circulation desk procedures, such as checking in and checking out of materials, registering patrons and processed library materials."
+            "description": "1. Installed, maintained, and repaired computer infrastructures. 2. Performed circulation desk procedures, such as checking in and checking out of materials, registering patrons and processed library materials."
         },
         {
             "employer": "REBISCO",
             "title": "Systems Analyst",
             "dates": "March 2014 - March 2017",
-            "description": "1. Analyse client’s business requirements and processes through document analysis, interviews, and workflow analysis.",
-            "2. Translate stakeholder requirements into tangible deliverables such as functional specifications, user cases, user stories, workflow/process diagrams, data flow/data model diagrams.",
-            "3. Collaborated with engineering team in the construction of document storage room, and implement a paper-based filing system for the entire company."
+            "description": "1. Analyse client’s business requirements and processes through document analysis, interviews, and workflow analysis. 2. Translate stakeholder requirements into tangible deliverables such as functional specifications, user cases, user stories, workflow/process diagrams, data flow/data model diagrams. 3. Collaborated with engineering team in the construction of document storage room, and implement a paper-based filing system for the entire company."
         },
         {
             "employer": "DSWD KALAHI-CIDSS",
