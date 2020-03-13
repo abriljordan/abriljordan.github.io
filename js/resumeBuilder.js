@@ -52,7 +52,7 @@ var work = {
             "title": "Library Assistant" ,
             "dates": "July 17, 2012 - December 20, 2014",
             "description": "1. Installed, maintained, and repaired computer infrastructures.",
-            "2. Performed circulation desk procedures, such as checking in and checking out of materials, registering patrons and processed library materials."
+                           "2. Performed circulation desk procedures, such as checking in and checking out of materials, registering patrons and processed library materials."
         },
         {
             "employer": "REBISCO",
