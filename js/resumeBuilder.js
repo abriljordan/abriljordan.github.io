@@ -1,6 +1,6 @@
 var bio = {
     "name" : "Abril Jordan Casinillo",
-    //"role" : "Aspiring QA/Software Engineer",
+    "role" : "Learning Ruby and how to make software fail",
     "contacts": {
         "mobile" : "0966-355-6805",
         "email" : "accasinillo@up.edu.ph",
@@ -85,7 +85,7 @@ var projects = {
 }
 
 var formattedName = HTMLheaderName.replace("%data%", bio.name);
-//var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
+var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
 $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
 
